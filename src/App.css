@@ -1,0 +1,22 @@
+.form-label{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+}
+h1{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+#button{
+  margin-left: 600px;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+
