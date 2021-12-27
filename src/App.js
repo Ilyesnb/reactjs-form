@@ -38,7 +38,10 @@ function App() {
     <label for="inputState" className="form-label">State</label>
     <select id="inputState" className="form-select">
       <option selected>Choose...</option>
-      <option>...</option>
+      <option>algerie</option>
+      <option>italia</option>
+      <option>epagne</option>
+      <option>turquia</option>
     </select>
   </div>
   <div className="col-md-2">
