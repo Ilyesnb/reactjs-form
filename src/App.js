@@ -120,7 +120,6 @@ function App() {
           <button type="submit" id="button" className="btn btn-primary">
             Sign in
           </button>
-          <p>test git </p>
         </div>
       </form>
     </div>
