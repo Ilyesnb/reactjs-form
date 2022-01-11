@@ -1,22 +1,16 @@
-.form-label{
+.nav-item{
+  margin-left: 200px;
+}
+p{
   display: flex;
   text-align: center;
   justify-content: center;
   align-items: center;
+  font-size: 30px;
+  color: darkslategray;
   
 }
-h1{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 100px;
-}
-#button{
-  margin-left: 600px;
-  padding-left: 100px;
-  padding-right: 100px;
 
-}
+
 
 
